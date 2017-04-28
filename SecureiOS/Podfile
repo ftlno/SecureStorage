@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target 'SecureiOS' do
+    pod 'LUKeychainAccess', '~> 2.0.2'
+end
