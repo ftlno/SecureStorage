@@ -3,7 +3,7 @@
 //  SecureStorage
 //
 //  Created by Fredrik Lillejordet on 28/04/2017.
-//  Copyright © 2017 Facebook. All rights reserved.
+//  Copyright © 2017 ftl. All rights reserved.
 //
 
 import LUKeychainAccess
